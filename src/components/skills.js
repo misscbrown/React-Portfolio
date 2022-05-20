@@ -1,11 +1,11 @@
 import React from "react";
 
-function Header() {
+function Skills() {
     return (
       <main>
-       header
+       Skills
       </main>
     );
   }
   
-  export default Header;
+  export default Skills;
