@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# React Portfolio
+
+# Inspiration
+
+# Challenges
+
+# Technologies used
+
+# Contact
+
+# Link to deployment
+
+# Screenshots
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
