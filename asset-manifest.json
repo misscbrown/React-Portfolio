@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf395763.css",
+    "main.js": "/static/js/main.50f12285.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cbrown-smiling.jpg": "/static/media/cbrown-smiling.e55f942ea7a397ffe649.jpg",
+    "static/media/computer.png": "/static/media/computer.2c99fa7831963bb28a1c.png",
+    "static/media/dev-hub.png": "/static/media/dev-hub.a1e6935ef6945b6ab666.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.57055f36b62db5e3924f.png",
+    "static/media/5.png": "/static/media/5.1609255d7c92f38aa1b7.png",
+    "static/media/4.png": "/static/media/4.aeab379a6b38adb0b328.png",
+    "static/media/2.png": "/static/media/2.d6413efa82544876329d.png",
+    "static/media/1.png": "/static/media/1.a78ee9a8444aa37d904f.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.cf395763.css.map": "/static/css/main.cf395763.css.map",
+    "main.50f12285.js.map": "/static/js/main.50f12285.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf395763.css",
+    "static/js/main.50f12285.js"
+  ]
+}
