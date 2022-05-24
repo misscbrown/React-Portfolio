@@ -1,6 +1,23 @@
 # React Portfolio
 
-My portfolio, created in React, that showcases a range of my work
+A mobile responsive portfolio, created in React, that showcases a range of my work.
+
+## Installation
+
+Clone this repository via the link, to your local machine.
+
+``` 
+$ git clone https://github.com/misscbrown/React-Portfolio
+$ cd react-portfolio 
+``` 
+
+Install the dependencies: 
+
+``` $ npm i
+    $ npm run build
+    $ npm start
+
+```
 
 ## Inspiration
 
@@ -23,6 +40,10 @@ HTML
 CSS
 
 Javascript
+
+NPM
+
+Node
 
 ## deployed link
 
